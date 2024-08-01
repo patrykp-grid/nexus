@@ -9,19 +9,19 @@
 
 ### Next I accessed user interface on http://localhost:8081:
 
-![UI](images/nexus-ui.png)
+![UI](images/UI.png)
 
 ### I logged in with the default credentials:
 
-![login](images/nexus-login.png)
+![login](images/login.png)
 
 ### Setting up a proxy repository
 
-![proxy](images/nexus-proxy.png)
+![proxy](images/proxy.png)
 
 #### Maven proxy repository
 
-![maven](images/nexus-maven.png)
+![maven](images/maven.png)
 
 updating .m2/settings.xml
 
